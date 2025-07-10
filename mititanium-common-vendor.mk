@@ -653,6 +653,4 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mititanium-common/proprietary/vendor/lib/vendor.qti.hardware.dsp@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.dsp@1.0.so
 
 PRODUCT_PACKAGES += \
-    libaudioparsers \
-    libts_detected_face_hal \
-    libts_face_beautify_hal
+    libaudioparsers
